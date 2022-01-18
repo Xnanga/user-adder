@@ -1,0 +1,27 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+
+  font-size: 3rem;
+}
+
+.form__field-group {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  height: 10rem;
+
+  margin-bottom: 2rem;
+}
+
+.form__field-group > label {
+  font-weight: bold;
+}
+
+.form__field-group > input {
+  font-size: 3rem;
+
+  padding: 0.75rem;
+}

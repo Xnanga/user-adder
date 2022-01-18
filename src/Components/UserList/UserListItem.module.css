@@ -1,0 +1,13 @@
+.user-list-item {
+  width: 100%;
+
+  font-size: 3rem;
+  border: 1px dotted black;
+}
+
+.user-list-item__data-block {
+  display: inline-block;
+  min-width: 17.5rem;
+
+  padding: 1rem;
+}

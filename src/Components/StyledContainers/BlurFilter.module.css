@@ -1,0 +1,7 @@
+.blurfilter {
+  position: fixed;
+  height: 100vh;
+  width: 100vw;
+  filter: brightness(50%);
+  opacity: 1;
+}
